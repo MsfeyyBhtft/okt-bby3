@@ -1,5 +1,5 @@
 services:
-  okoyokt:
+  okoybby:
     build: .
     shm_size: 2.6gb
     ports:
